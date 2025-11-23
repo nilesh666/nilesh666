@@ -10,7 +10,6 @@ I’m Nilesh Nandan T S, a master’s-student in Data Science. I’m passionate 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nilesh666&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nilesh666&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh666&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nilesh666&icon=0&color=0)](https://visitcount.itsvg.in)
