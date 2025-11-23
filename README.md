@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Nilesh Nandan T S, a master’s-student in Data Science. I’m passionate about data engineering, machine learning, and building real-world systems.<br><br><br>On GitHub, I work on projects spanning:<br><br>Data engineering pipelines & orchestration<br><br>Machine learning & deep learning (including computer vision)<br><br>AI agent orchestration<br><br>Feel free to explore my repositories and connect with me for collaborations on data-driven systems and research.<br><br>Apart from this I love cats
+I’m Nilesh Nandan T S, a master’s-student in Data Science. I’m passionate about data engineering, machine learning, and building real-world systems.On GitHub, I work on projects spanning:<br><br>Data engineering pipelines & orchestration<br><br>Machine learning & deep learning (including computer vision)<br><br>AI agent orchestration<br><br>Feel free to explore my repositories and connect with me for collaborations on data-driven systems and research.<br><br>Apart from this I love cats
 
 
 ## 🌐 Socials:
