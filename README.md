@@ -1,13 +1,14 @@
 <div align="center">
 
 # 💫 About Me
-I’m **Nilesh Nandan T S** and I have completed my Master’s in Data Science..  
-I’m passionate about **data engineering**, **machine learning**, and building **real-world systems**.
+I’m **Nilesh Nandan T S** and I have completed my Master’s in Data Science. I am pursuing a PhD at IIST.
+I’m passionate about **Computer Vision**, **remote sensing**, **machine learning**, and building **real-world systems**.
 
 On GitHub, I work on projects involving:  
-✨ Data engineering pipelines & orchestration  
+✨ Geospatial data processing for AI inference
 ✨ Machine learning & deep learning (including computer vision)  
 ✨ AI agent orchestration  
+✨ Data engineering pipelines & orchestration  
 
 Feel free to explore my repositories and connect with me for collaborations on data-driven systems and research.  
 Also... I **love cats** 🐱❤️
